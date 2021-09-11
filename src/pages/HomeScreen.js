@@ -3,7 +3,7 @@ import Main from './Main';
 const HomeScreen = () => {
 	return (
 		<Main>
-			<h1>HomeScreen</h1>
+			<h3>HomeScreen</h3>
 		</Main>
 	);
 };

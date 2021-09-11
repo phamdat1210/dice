@@ -1,0 +1,11 @@
+.header_main {
+    display: flex;
+}
+._url {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+._link {
+    margin : 0px 6px 0px 6px;
+}
